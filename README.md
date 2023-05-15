@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<h1> Hey there! I'm Asllan 👋 </h1>
+<h2> A Passionate Software Developer From Albania </h2>
 <!--
 **asllanmakaj7/asllanmakaj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
