@@ -1,12 +1,13 @@
 
 <h1> Hey there! I'm Asllan 👋 </h1>
 <h2> A Passionate Software Developer From Albania </h2>
-<h3>
+<h3><img src="https://img.icons8.com/?size=512&id=gjtC5fF62hHM&format=png" width="20"/> Skills </h3>
+<p align="center">
   <img src="https://img.icons8.com/?size=512&id=wpZmKzk11AzJ&format=png" width="50"/>
   <img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width="50"/>
   <img src="https://img.icons8.com/?size=512&id=55251&format=png" width="50"/>
    <img src="https://img.icons8.com/?size=512&id=OU2ddOKw840K&format=png" width="50"/>
-</h3>
+</p>
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/asllan-makaj-195a97214/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
